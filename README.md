@@ -3,7 +3,7 @@
 Hi! I'm Azfar Rahman, a student in the Framework-Based Software Design and Development course. 
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-![My Image]![azfar passport poto_1](https://github.com/user-attachments/assets/80fbcb9d-ebf5-4529-9778-48986fe097a4)
+![azfar passport poto_1](https://github.com/user-attachments/assets/80fbcb9d-ebf5-4529-9778-48986fe097a4)
   <!-- Link to the uploaded image -->
 
 ## GitHub Profile
